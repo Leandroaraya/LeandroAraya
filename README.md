@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👋 Hi there, I'm Leandro Araya  
 
-<!--
-**Leandroaraya/LeandroAraya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mechanical Civil Engineer & Electrical Technician  
+💻 Interested in Data Science, Machine Learning & Technology Applications  
+🌱 Passionate about Sustainability and Renewable Energies (Solar Panels)  
+📍 Based in Quintero, Chile  
 
-Here are some ideas to get you started:
+## 🌱 What I'm working on
+- Building a portfolio with projects in Python & Machine Learning  
+- Learning about data visualization (Tableau, Python, etc.)  
+- Exploring the use of AI in industrial environments  
+- Researching and promoting renewable energy solutions  
 
-- 🔭 I’m currently working on every thing
-- 🌱 I’m currently learning to be someone great
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- 📧 Email: araya.leandro@gmail.com  
+- 🔗 LinkedIn: [Leandro Araya](https://www.linkedin.com/in/leandro-araya-mena-16768b144)  
