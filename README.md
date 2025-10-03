@@ -2,7 +2,7 @@
 
 🎓 Mechanical Civil Engineer & Electrical Technician  
 💻 Interested in Data Science, Machine Learning & Technology Applications  
-🌱 Passionate about Sustainability and Renewable Energies (Solar Panels)  
+🌱 Passionate about Sustainability and Renewable Energies (Photovoltaic Energy)  
 📍 Based in Quintero, Chile  
 
 ## 🌱 What I'm working on
